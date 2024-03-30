@@ -14,7 +14,7 @@
 
 💬 Ask me about **UX Design, Web Development... or anything [here](https://github.com/a50b/a50b/issues)**
 
-⚡ Fun fact **Otters hold hands while sleeping to avoid drifting apart**
+⚡ Fun fact **Otters hold hands while sleeping to avoid drifting apart :)**
 
  </div>
  
