@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a personal website**
  
- 🌱 I’m currently learning **SCSS, React**
+ 🌱 I’m currently learning **React**
 
 💬 Ask me about **UX Design, Web Development... or anything [here](https://github.com/a50b/a50b/issues)**
 
