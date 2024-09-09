@@ -8,11 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personal website**
+ 🔭 I’m currently working on **game development in JavaScript**
  
  🌱 I’m currently learning **React**
-
-💬 Ask me about **UX Design, Web Development... or anything [here](https://github.com/a50b/a50b/issues)**
 
 ⚡ Fun fact **Otters hold hands while sleeping to avoid drifting apart :)**
 
