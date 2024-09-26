@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a SaaS product**
  
- 🌱 I’m currently learning **game development in JavaScript**
+ 🌱 I’m currently learning **convolutional neural networks**
 
 ⚡ Fun fact **Otters hold hands while sleeping to avoid drifting apart :)**
 
