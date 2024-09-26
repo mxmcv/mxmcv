@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Flask & TensorFlow**
 
-⚡ Fun fact **Otters hold hands while sleeping to avoid drifting apart :)**
+⚡ Fun fact: **Otters hold hands while sleeping to avoid drifting apart :)**
 
  </div>
  
