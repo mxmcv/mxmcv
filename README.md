@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a SaaS product**
  
- 🌱 I’m currently learning **Flask & TensorFlow**
+ 🌱 I’m currently learning **Angular and Sprint Boot**
 
 ⚡ Fun fact: **Otters hold hands while sleeping to avoid drifting apart :)**
 
@@ -28,9 +28,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,cpp,python,nextjs,flask,tensorflow,nodejs" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,cpp,python,nextjs,spring,tensorflow,nodejs" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=typescript,html,css,bootstrap,figma,git,supabase,jenkins" />
+    <img src="https://skillicons.dev/icons?i=typescript,html,css,angular,figma,git,supabase,jenkins" />
 </div>
 
 <hr/>
