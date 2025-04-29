@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a SaaS product**
  
- 🌱 I’m currently learning **Angular and Sprint Boot**
+ 🌱 I’m currently learning **Angular and Spring Boot**
 
 ⚡ Fun fact: **Otters hold hands while sleeping to avoid drifting apart :)**
 
