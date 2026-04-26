@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Michael+McVicar!;" />
 </h1>
 
-<h3 align="center">A Software Developer from Canada</h3>
+<h3 align="center">A Software Engineer from Canada</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
  🔭 I’m currently working on **<a href="https://reddify.ca" target="_blank">reddify.ca
   </a>**
  
- 🌱 I’m currently learning **Angular and Spring Boot**
+ 🌱 I’m currently learning about **Agentic RAG & Graph Memory**
 
 ⚡ Fun fact: **Otters hold hands while sleeping to avoid drifting apart :)**
 
