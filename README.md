@@ -5,33 +5,12 @@
 <h3 align="center">A Software Engineer from Canada</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **<a href="https://reddify.ca" target="_blank">reddify.ca
-  </a>**
- 
- 🌱 I’m currently learning about **Agentic RAG & Graph Memory**
-
-⚡ Fun fact: **Otters hold hands while sleeping to avoid drifting apart :)**
-
- </div>
  
 <div align="center"> 
   <a href="https://linkedin.com/in/michael-mcvicar-395136291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,cpp,python,nextjs,aws,azure,nodejs" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=typescript,tailwind,prisma,angular,figma,git,supabase,jenkins" />
 </div>
 
 <hr/>
